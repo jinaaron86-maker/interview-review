@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文非技术岗面试复盘"
+  short_description: "根据已有面试证据分级复盘回答，输出可编辑报告及练习逐字稿。"
+  default_prompt: "使用 $interview-review 复盘我的非技术岗面试，先检查材料与实际职责，再生成有证据边界的中文报告。"
