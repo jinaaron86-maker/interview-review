@@ -1,0 +1,9 @@
+{
+  "status": "mechanical_checks_passed",
+  "pdf": "已生成，尚待逐页视觉检查",
+  "transcript_pdf": "已生成，尚待逐页视觉检查",
+  "delivery_status": "complete_for_reviewed_sample",
+  "visual_qa": "pass",
+  "content_review": "reviewed_fictional_sample",
+  "note": "机械校验不验证事实、链接有效性或评分合理性"
+}

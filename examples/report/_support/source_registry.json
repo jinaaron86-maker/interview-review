@@ -1,0 +1,20 @@
+[
+  {
+    "id": "transcript",
+    "kind": "虚构文字稿",
+    "location": "transcript.md",
+    "scope": "P1—P6，无时间戳，P6缺失"
+  },
+  {
+    "id": "resume",
+    "kind": "虚构简历",
+    "location": "resume.md",
+    "scope": "只支持素材及发布执行职责"
+  },
+  {
+    "id": "jd",
+    "kind": "虚构JD",
+    "location": "jd.md",
+    "scope": "内容运营职责"
+  }
+]

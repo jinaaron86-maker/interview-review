@@ -1,0 +1,24 @@
+{
+  "status": "pass",
+  "renderer": "PDFium",
+  "files": [
+    {
+      "file": "interview_review.pdf",
+      "pages_reviewed": 3,
+      "sha256": "5d7dc1a70760a284f1a94029465255e993bfb6bd6c80b5d6faae9a197c49abaf",
+      "status": "pass"
+    },
+    {
+      "file": "question_transcript.pdf",
+      "pages_reviewed": 1,
+      "sha256": "c567afb4bbea30d96cdcbe5f3560aaf59c90be74c41df378036a1a83a4201515",
+      "status": "pass"
+    }
+  ],
+  "checks": [
+    "蓝色结论栏与四色卡片",
+    "逐题卡片与加粗标签",
+    "主题分节与原话层级",
+    "逐页无裁切重叠"
+  ]
+}
